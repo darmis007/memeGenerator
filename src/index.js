@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import Header from './components/header'
-import TodoItem from './components/todo'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
